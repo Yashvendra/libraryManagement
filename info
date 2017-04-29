@@ -1,0 +1,3 @@
+This is a library management which is developed in java. For the database i have used mysql which has three three tables fro books,
+librarian, and issuebooks. And an additional java library, mysql-connector-java-5.1.39.jar is required for linking the program
+with the mysql database.
