@@ -14,7 +14,7 @@ The table you have to make are -
 `librarian` - Maintained by the admin to add or remove librarians.
 
 
-### NOTE - Make sure that you enter all the details in the table and the number of columns should match the query you make inside the program.
+###### NOTE - Make sure that you enter all the details in the table and the number of columns should match the query you make inside the program.
 
-### Feel free to use it in your Library.
+###### Feel free to use it in your Library.
 
